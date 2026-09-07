@@ -1,8 +1,5 @@
-//Clase Mascota
+//Clase Sistema
 import java.util.ArrayList;
-
-// Sistema
-
 public class Sistema {
     private ArrayList<Consulta> consultas;
 
@@ -25,6 +22,7 @@ public class Sistema {
     }
 
 }
+//Clase Mascota
 
 public class Mascota {
 
@@ -58,7 +56,7 @@ public class Mascota {
 
 
 //Clase Cliente
-
+import java.util.ArrayList;
 
 public class Cliente {
 
